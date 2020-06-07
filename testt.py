@@ -3,7 +3,7 @@ while True:
     if count >= 5:
         break
 
+    #　インデントがずれていたので修正しました。
     print(count)
-    # print(count)
+
     count += 1
-    # print(count)
